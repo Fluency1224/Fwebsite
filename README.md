@@ -1,2 +1,10 @@
-# Fwebsite
-个人网站模板
+#  copy from https://github.com/The-WebOps-Club/personal-website-template
+
+A simple one page template suited for personal and portfolio pages. 
+
+## Usage
+
+- Fork this repository
+- Rename it to `<your-github-username>.github.io`
+- Edit `index.html` to add your personal details
+- Goto `http://<your-github-username.github.io` and website will be visible there
